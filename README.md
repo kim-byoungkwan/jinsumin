@@ -67,20 +67,20 @@ Java와 Spring을 메인으로 CS, 자료구조와 알고리즘, 클린코드와
 
 ### [같은 지역 내 공통 관심사를 가진 사람들의 온 오프라인 모임 앱, 그루핑](https://github.com/Groupers)
 
-- 2020. 03 ~ 2020. 12
+- 2020.03 ~ 2020.12
 - 5~7인 팀 프로젝트
 - 창업 공모전 - 스마트 시민랩 커뮤니티 모바일 앱 개발 프로젝트
 - React Native, Spring, Mysql, aws2, Firebase, Docker, Redis
 
 ### [사회적 협동조합 ‘너른마당’ 웹 페이지 제작](https://www.madangcoop.net/)
 
-- 2020. 09 ~ 2020. 11
+- 2020.09 ~ 2020.11
 - 서울시청 재무부 3개월 인턴 과정
 - HTML, CSS, JavaScript, Restful API, Swagger
 
 ### 인하광장 자유게시글의 감정 분석
 
-- 2018. 08 ~ 2019. 02
+- 2018.08 ~ 2019.02
 - 3인 팀 프로젝트
 - 인하대학교 졸업 프로젝트 - 졸업 논문 작성
 - Python, Selenium, LSTM
@@ -91,21 +91,21 @@ Java와 Spring을 메인으로 CS, 자료구조와 알고리즘, 클린코드와
 
 ### [나만의 포트폴리오 웹 페이지 제작, SOOMIN’s PORTFOLIO](https://github.com/jinsumin/next-portfolio)
 
-- 2022. 06 ~ 2022. 07
+- 2022.06 ~ 2022.07
 - Next.js, tailwindcss, notion API
 
 ### [영화 순위 사이트 제작, Movie App](https://github.com/jinsumin/movie-app)
 
-- 2022. 04 ~ 2022. 05
+- 2022.04 ~ 2022.05
 - Next.js, tailwindcss, API fetching
 
 ---
 
 ## Book Group Study
 
-- 클린코드 (2022. 03 ~ 2022. 06)
+- 클린코드 (2022.03 ~ 2022.06)
     - https://github.com
-- 객체지향의 사실과 오해 (2022. 06 ~ 2022. 07)
+- 객체지향의 사실과 오해 (2022.06 ~ 2022.07)
     - https://github.com
 - 모던 자바 인 액션
     - https://github.com
@@ -125,5 +125,5 @@ Java와 Spring을 메인으로 CS, 자료구조와 알고리즘, 클린코드와
 
 (이미지)
 
-- KOPO 알고리즘 15명 스터디 운영중 (22. 03. ~ )
+- KOPO 알고리즘 15명 스터디 운영중 (2022.03 ~ )
 - https://github.com/jinsumin/Algorithm
