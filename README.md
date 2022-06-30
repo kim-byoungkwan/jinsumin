@@ -1,4 +1,4 @@
-<img width="1019" alt="github-background-img" src="https://user-images.githubusercontent.com/21328122/176701576-9882d763-59da-45f3-ae26-3ac73c743365.png">
+<img width="1021" alt="스크린샷 2022-06-30 오후 11 42 30" src="https://user-images.githubusercontent.com/21328122/176706586-1ee4ab8f-e9bf-458c-ae94-5b66b29d9e71.png">
 
 ## Hi! I'm Soomin!
 
