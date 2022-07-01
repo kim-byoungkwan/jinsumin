@@ -44,7 +44,7 @@ Java와 Spring을 메인으로 CS, 자료구조와 알고리즘, 클린코드와
 
 ### [DEVLOG 개발일지](https://devlog-soomin.tistory.com/)
 
-[DEVLOG](https://devlog-soomin.tistory.com/)
+- https://devlog-soomin.tistory.com/
 
 ---
 
@@ -59,7 +59,7 @@ Java와 Spring을 메인으로 CS, 자료구조와 알고리즘, 클린코드와
 
 ## Awards
 
-- 창업 공모전, 스마트 시민랩 커뮤니티 선정 500만원 지원 (2020. 03 ~ 2020. 12)
+- 창업 공모전, 스마트 시민랩 커뮤니티 선정 500만원 지원 (2020.03 ~ 2020.12)
 
 ---
 
@@ -70,7 +70,7 @@ Java와 Spring을 메인으로 CS, 자료구조와 알고리즘, 클린코드와
 - 2020.03 ~ 2020.12
 - 5~7인 팀 프로젝트
 - 창업 공모전 - 스마트 시민랩 커뮤니티 모바일 앱 개발 프로젝트
-- React Native, Spring, Mysql, aws2, Firebase, Docker, Redis
+- React Native, Spring, Mysql, AWS ec2, Firebase, Docker, Redis
 
 ### [사회적 협동조합 ‘너른마당’ 웹 페이지 제작](https://www.madangcoop.net/)
 
@@ -78,13 +78,12 @@ Java와 Spring을 메인으로 CS, 자료구조와 알고리즘, 클린코드와
 - 서울시청 재무부 3개월 인턴 과정
 - HTML, CSS, JavaScript, Restful API, Swagger
 
-### 인하광장 자유게시글의 감정 분석
+### [인하광장 자유게시글의 감정 분석](https://github.com/jinsumin/jinsumin/files/9024407/default.pdf)
 
 - 2018.08 ~ 2019.02
 - 3인 팀 프로젝트
 - 인하대학교 졸업 프로젝트 - 졸업 논문 작성
 - Python, Selenium, LSTM
-- [오피니언마이닝을 통한 인하광장 게시판의 감정 분석.pdf](https://github.com/jinsumin/jinsumin/files/9024407/default.pdf)
 
 ---
 
@@ -105,17 +104,17 @@ Java와 Spring을 메인으로 CS, 자료구조와 알고리즘, 클린코드와
 ## Book Group Study
 
 - 클린코드 (2022.03 ~ 2022.06)
-    - https://github.com
+    - https://devlog-soomin.tistory.com/category/clean%20code
 - 객체지향의 사실과 오해 (2022.06 ~ 2022.07)
-    - https://github.com
+    - https://devlog-soomin.tistory.com/category/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4
 - 모던 자바 인 액션
-    - https://github.com
+    - https://devlog-soomin.tistory.com/
 
 ---
 
 ## Certifications
 
-- 정보처리기사 필기 합 (실기 예정 22. 07)
+- 정보처리기사 필기 합 (실기 예정 2022.07)
 - SQLD 예정 (22. 08)
 - ADSP 예정 (22. 08)
 - OPic IM2
