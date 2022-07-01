@@ -104,11 +104,11 @@ Java와 Spring을 메인으로 CS, 자료구조와 알고리즘, 클린코드와
 ## Book Group Study
 
 - 클린코드 (2022.03 ~ 2022.06)
-    - https://devlog-soomin.tistory.com/category/clean%20code
+    - [DEVLOG 클린코드](https://devlog-soomin.tistory.com/category/clean%20code)
 - 객체지향의 사실과 오해 (2022.06 ~ 2022.07)
-    - https://devlog-soomin.tistory.com/category/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4
+    - [DEVLOG 객체지향의 사실과 오해](https://devlog-soomin.tistory.com/category/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4)
 - 모던 자바 인 액션
-    - https://devlog-soomin.tistory.com/
+    - [DEVLOG 모던 자바 인 액션](https://devlog-soomin.tistory.com/)
 
 ---
 
