@@ -42,7 +42,7 @@ Java와 Spring을 메인으로 CS, 자료구조와 알고리즘, 클린코드와
 
 ### [DEVLOG 개발일지](https://devlog-soomin.tistory.com/)
 
-- https://devlog-soomin.tistory.com/
+- https://devlog-soomin.tistory.com
 
 ---
 
