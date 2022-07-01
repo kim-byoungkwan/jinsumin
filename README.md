@@ -91,6 +91,7 @@ Java와 Spring을 메인으로 CS, 자료구조와 알고리즘, 클린코드와
 
 - 2022.06 ~ 2022.07
 - Next.js, tailwindcss, notion API
+- https://dev.soomin.world
 
 ### [영화 순위 사이트 제작, Movie App](https://github.com/jinsumin/movie-app)
 
