@@ -84,6 +84,7 @@ Java와 Spring을 메인으로 CS, 자료구조와 알고리즘, 클린코드와
 - 3인 팀 프로젝트
 - 인하대학교 졸업 프로젝트 - 졸업 논문 작성
 - Python, Selenium, LSTM
+- [오피니언마이닝을 통한 인하광장 게시판의 감정 분석.pdf](https://github.com/jinsumin/jinsumin/files/9024407/default.pdf)
 
 ---
 
