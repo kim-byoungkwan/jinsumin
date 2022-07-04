@@ -18,25 +18,15 @@ Java와 Spring을 메인으로 CS, 자료구조와 알고리즘, 클린코드와
 
 ### Backend
 
-![JAVA](https://img.shields.io/badge/-JAVA-yellowgreen?style=flat-square)
-
-<img src="[https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)">
-<img src="[https://img.shields.io/badge/Spring](https://img.shields.io/badge/Spring) Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-<img src="[https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)">
-<img src="[https://img.shields.io/badge/mybatis-4479A1?style=for-the-badge&logo=mybatis&logoColor=white](https://img.shields.io/badge/mybatis-4479A1?style=for-the-badge&logo=mybatis&logoColor=white)">
-<img src="[https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)">
-<img src="[https://img.shields.io/badge/qdsl-purple?style=for-the-badge&logo=qdsl&logoColor=white](https://img.shields.io/badge/qdsl-purple?style=for-the-badge&logo=qdsl&logoColor=white)">
+![JAVA](https://img.shields.io/badge/-JAVA-yellowgreen) ![Sprig](https://img.shields.io/badge/-Spring-orange) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-red) ![JPA](https://img.shields.io/badge/-JPA-blue) ![MyBatis](https://img.shields.io/badge/-MyBatis-blueviolet) ![Node.js](https://img.shields.io/badge/-Node.js-critical) ![Oracle](https://img.shields.io/badge/-Oracle-informational) ![MySQL](https://img.shields.io/badge/-MySQL-important) ![Apache](https://img.shields.io/badge/-Apache-yellow) ![tomcat](https://img.shields.io/badge/-tomcat-ff69b4)
 
 ### FrontEnd
 
-<img src="[https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)"> <img src="[https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)">
-<img src="[https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)">
-<img src="[https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)">
-<img src="[https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white)">
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![CSS](https://img.shields.io/badge/-CSS-yellowgreen) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-ff69b4) ![React](https://img.shields.io/badge/-React-orange) ![React Native](https://img.shields.io/badge/-React%20Native-red) ![Next.js](https://img.shields.io/badge/-Next.js-lightgrey) ![Mobx](https://img.shields.io/badge/-Mobx-yellowgreen) ![Redux](https://img.shields.io/badge/-Redux-important) ![Hooks](https://img.shields.io/badge/-Hooks-orange) ![Realm](https://img.shields.io/badge/-Realm-blueviolet) 
 
 ### DevOps
 
-<img src="[https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)"> <img src="[https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)"> <img src="[https://img.shields.io/badge/docker-232F3E?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/docker-232F3E?style=for-the-badge&logo=docker&logoColor=white)">
+![Docker](https://img.shields.io/badge/-Docker-indigo) ![Linux](https://img.shields.io/badge/-Linux-green) ![AWS](https://img.shields.io/badge/-AWS-lightgrey)
 
 ---
 
