@@ -82,7 +82,7 @@ C와 Java 언어를 통해 프로그래밍을 시작하였고 CS, 운영체제, 
 
 ## Personal Projects
 
-### [나만의 포트폴리오 웹 페이지 제작, SOOMIN’s PORTFOLIO](https://github.com/jinsumin/next-portfolio)
+### [포트폴리오 웹 페이지 제작, SOOMIN’s PORTFOLIO](https://github.com/jinsumin/next-portfolio)
 
 - 2022.06 ~ 2022.07
 - Next.js, tailwindcss, notion API
