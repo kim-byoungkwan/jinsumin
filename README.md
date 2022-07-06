@@ -116,7 +116,7 @@ C와 Java 언어를 통해 프로그래밍을 시작하였고 CS, 운영체제, 
 
 ## Algorithm Group Study
 
-(이미지)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=smjin031)](https://solved.ac/smjin031)
 
 - KOPO 알고리즘 13명 스터디 운영중 (2022.03 ~ )
 - https://github.com/jinsumin/Algorithm
