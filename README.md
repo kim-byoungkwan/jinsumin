@@ -15,6 +15,8 @@ C와 Java 언어를 통해 프로그래밍을 시작하였고 CS, 운영체제, 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsumin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsumin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## Skills
