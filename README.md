@@ -2,6 +2,7 @@
 
 ## 안녕하세요! 진수민의 깃허브 페이지입니다.
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinsumin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 저는 새로운 지식과 기술을 배우는 것을 좋아하며 경험을 공유하고 함께 성장하는 가치를 중요시합니다. <br/>
 혼자만의 역량만이 아니라 내 주변, 그리고 함께하는 팀의 성장을 도울 수 있는 개발자가 되기 위해 노력하고 있습니다.
