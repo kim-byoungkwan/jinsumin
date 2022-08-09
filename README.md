@@ -27,7 +27,12 @@ C와 Java 언어를 통해 프로그래밍을 시작하였고 CS, 운영체제, 
 
 ### FrontEnd
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![CSS](https://img.shields.io/badge/-CSS-yellowgreen) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-ff69b4) ![PostCSS](https://img.shields.io/badge/-PostCSS-red) ![React](https://img.shields.io/badge/-React-orange) ![React Native](https://img.shields.io/badge/-React%20Native-red) ![Next.js](https://img.shields.io/badge/-Next.js-lightgrey) ![Mobx](https://img.shields.io/badge/-Mobx-yellowgreen) ![Redux](https://img.shields.io/badge/-Redux-important) ![Hooks](https://img.shields.io/badge/-Hooks-orange) ![Realm](https://img.shields.io/badge/-Realm-blueviolet) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue) ![HTML](https://img.shields.io/badge/-HTML-brightgreen) ![CSS](https://img.shields.io/badge/-CSS-yellowgreen) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-ff69b4) ![PostCSS](https://img.shields.io/badge/-PostCSS-red) ![React](https://img.shields.io/badge/-React-orange)  ![Next.js](https://img.shields.io/badge/-Next.js-lightgrey) ![Mobx](https://img.shields.io/badge/-Mobx-yellowgreen) ![Redux](https://img.shields.io/badge/-Redux-important) ![Hooks](https://img.shields.io/badge/-Hooks-orange) 
+
+
+### Mobile
+![Android](https://img.shields.io/badge/-android-blue) ![React Native](https://img.shields.io/badge/-React%20Native-red) ![Realm](https://img.shields.io/badge/-Realm-blueviolet)
+
 
 ### DevOps
 
