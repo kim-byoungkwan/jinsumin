@@ -95,6 +95,12 @@ C와 Java 언어를 통해 프로그래밍을 시작하였고 CS, 운영체제, 
 - Next.js, tailwindcss, notion API
 - https://dev.soomin.world
 
+### [BOOK SEARCH APP](https://github.com/jinsumin/book-search-app)
+
+- 2022.07 ~ 2022.08
+- 안드로이도 앱 제작 및 배포 Modern Android Development
+- Android, kakaoAPI, Kotlin, Retrofit, Moshi, OkHttp, Kapt, Coroutine, Livedata, Coil
+
 ### [영화 순위 사이트 제작, Movie App](https://github.com/jinsumin/movie-app)
 
 - 2022.04 ~ 2022.05
