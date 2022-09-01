@@ -23,7 +23,7 @@ C와 Java 언어를 통해 프로그래밍을 시작하였고 CS, 운영체제, 
 
 ### Backend
 
-![JAVA](https://img.shields.io/badge/-JAVA-yellowgreen) ![Sprig](https://img.shields.io/badge/-Spring-orange) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-red) ![JPA](https://img.shields.io/badge/-JPA-blue) ![MyBatis](https://img.shields.io/badge/-MyBatis-blueviolet) ![Node.js](https://img.shields.io/badge/-Node.js-critical) ![express](https://img.shields.io/badge/-express-critical) ![Oracle](https://img.shields.io/badge/-Oracle-informational) ![MySQL](https://img.shields.io/badge/-MySQL-important) ![Apache](https://img.shields.io/badge/-Apache-yellow) ![tomcat](https://img.shields.io/badge/-tomcat-ff69b4) ![MSA](https://img.shields.io/badge/-MSA-yellow) ![Spring Cloud](https://img.shields.io/badge/-SpringCloud-blueviolet) ![API GATEWAY](https://img.shields.io/badge/-API%20G%2FW-red) ![postman](https://img.shields.io/badge/-postman-informational)
+![JAVA](https://img.shields.io/badge/-JAVA-yellowgreen) ![Sprig](https://img.shields.io/badge/-Spring-orange) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-red) ![JPA](https://img.shields.io/badge/-JPA-blue) ![MyBatis](https://img.shields.io/badge/-MyBatis-blueviolet) ![Node.js](https://img.shields.io/badge/-Node.js-critical) ![express](https://img.shields.io/badge/-express-critical) ![Oracle](https://img.shields.io/badge/-Oracle-informational) ![OracleCloud](https://img.shields.io/badge/-OracleCloud-success) ![MySQL](https://img.shields.io/badge/-MySQL-important) ![Apache](https://img.shields.io/badge/-Apache-yellow) ![tomcat](https://img.shields.io/badge/-tomcat-ff69b4) ![MSA](https://img.shields.io/badge/-MSA-yellow) ![Spring Cloud](https://img.shields.io/badge/-SpringCloud-blueviolet) ![API GATEWAY](https://img.shields.io/badge/-API%20G%2FW-red) ![postman](https://img.shields.io/badge/-postman-informational)
  
 ### FrontEnd
 
@@ -31,7 +31,7 @@ C와 Java 언어를 통해 프로그래밍을 시작하였고 CS, 운영체제, 
 
 
 ### Mobile
-![Android](https://img.shields.io/badge/-android-blue) ![React Native](https://img.shields.io/badge/-React%20Native-red) ![Realm](https://img.shields.io/badge/-Realm-blueviolet)
+![Android](https://img.shields.io/badge/-android-blue) ![Jetpack](https://img.shields.io/badge/-Jetpack-orange) ![React Native](https://img.shields.io/badge/-React%20Native-red) ![Realm](https://img.shields.io/badge/-Realm-blueviolet) ![SQLite](https://img.shields.io/badge/-SQLite-yellowgreen)
 
 
 ### DevOps
