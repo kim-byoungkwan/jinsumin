@@ -2,6 +2,8 @@
 
 ## 안녕하세요! 진수민의 깃허브 페이지입니다.
 
+[포트폴리오 사이트 바로가기](https://dev.soomin.world)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinsumin&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB_PAGE_HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdev.soomin.world&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PORTFOLIO_PAGE_HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
